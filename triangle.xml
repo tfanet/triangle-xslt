@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="triangle.xslt"?>
+<triangle-list>
+	<triangle>
+		<name>triangle 1</name>
+		<side1>5</side1>
+		<side2>5</side2>
+		<side3>5</side3>
+	</triangle>
+	<triangle>
+		<name>triangle 2</name>
+		<side1>4</side1>
+		<side2>2</side2>
+		<side3>4</side3>
+	</triangle>
+	<triangle>
+		<name>triangle 3</name>
+		<side1>7</side1>
+		<side2>4</side2>
+		<side3>3</side3>
+	</triangle>
+	<triangle>
+		<name>triangle 4</name>
+		<side1>5</side1>
+		<side2>-6</side2>
+		<side3>9</side3>
+	</triangle>
+	<triangle>
+		<name>triangle 5</name>
+		<side1>5</side1>
+		<side2>6</side2>
+		<side3>10</side3>
+	</triangle>
+	<triangle>
+		<name>triangle 6</name>
+		<side1>3</side1>
+		<side2>2</side2>
+		<side3>0</side3>
+	</triangle>
+</triangle-list>
