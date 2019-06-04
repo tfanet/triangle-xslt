@@ -10,8 +10,8 @@
 		           	body {background-color:#F2F5A9; font-family:Arial, Helvetica, sans-serif}
 		           	h1.INVALID {color:#FF0000}
 		           	h1.EQUILATERAL {color:#00FF00}
-			   		h1.ISOSCELES {color:#0040FF}
-			   		h1.SCALENE {color: #000000}
+			   	h1.ISOSCELES {color:#0040FF}
+			   	h1.SCALENE {color: #000000}
 		        </style>
 			</head>
 			<body>
